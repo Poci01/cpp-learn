@@ -102,5 +102,5 @@ Repository ini berisi catatan perjalanan dan penyelesaian tugas latihan logika d
 ---
 
 ## 🛠️ Catatan Tambahan
-- **Bahasa yang digunakan:** *(Isi dengan bahasa pemrograman pilihanmu, e.g., Python / C++ / JavaScript)*
-- **Status:** Dalam Pengerjaan Phase 2
+- **Bahasa yang digunakan:** *CSS*
+- **Status:** Dalam Pengerjaan Phase 3
