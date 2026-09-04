@@ -30,7 +30,7 @@ Repository ini berisi catatan perjalanan dan penyelesaian tugas latihan logika d
 
 ## 🎯 Phase 2: Perulangan & Validasi (Level Up)
 
-### 🔲 5. Kalkulator Interaktif (Looping + Exit Condition)
+### ✅ 5. Kalkulator Interaktif (Looping + Exit Condition)
 * **Fokus Konsep:** Perulangan `while`, Kondisi Henti (*Exit condition*).
 * **Deskripsi:** 
   Mengubah Kalkulator dasar agar bisa digunakan berulang kali tanpa harus me-restart program.
