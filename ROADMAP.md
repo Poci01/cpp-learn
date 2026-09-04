@@ -42,7 +42,7 @@ Repository ini berisi catatan perjalanan dan penyelesaian tugas latihan logika d
 
 ---
 
-### 🔲 6. Program Cek Angka Ganjil / Genap
+### ✅ 6. Program Cek Angka Ganjil / Genap
 * **Fokus Konsep:** Operator Modulo (`%`), Validasi Tipe Data.
 * **Deskripsi:** 
   Menentukan sifat angka yang diinputkan pengguna.
@@ -54,7 +54,7 @@ Repository ini berisi catatan perjalanan dan penyelesaian tugas latihan logika d
 
 ---
 
-### 🔲 7. Game Tebak Angka
+### ✅ 7. Game Tebak Angka
 * **Fokus Konsep:** Library Random, Counter / Iterasi Perulangan.
 * **Deskripsi:** 
   Komputer memilih satu angka rahasia (1–10), pengguna menebak hingga benar.
