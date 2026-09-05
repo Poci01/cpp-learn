@@ -72,7 +72,7 @@ Repository ini berisi catatan perjalanan dan penyelesaian tugas latihan logika d
 
 ## 📊 Phase 3: Array / List & Manipulasi Data
 
-### 🔲 8. Program Kasir & Total Belanja
+### 🟨 8. Program Kasir & Total Belanja
 * **Fokus Konsep:** `List` / `Array`, Penjumlahan Akumulatif.
 * **Deskripsi:** 
   Mencatat beberapa harga barang dan menghitung total harga serta rata-ratanya.
